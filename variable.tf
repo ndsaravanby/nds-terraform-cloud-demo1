@@ -1,6 +1,7 @@
 #variable block
 
-variable "region" {
+/*variable "region" {
   description = "region.info"
   type = string
 }
+*/
